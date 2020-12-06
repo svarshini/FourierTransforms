@@ -5,7 +5,7 @@
 ## Overview
 Fourier Transforms are ubiquitous in mathematical areas which require the decomposition of a function into its constituent frequencies. 
 
-This work attempts to capture the beautiful piece of mathematics that governs Fourier Transforms and is inspired the video by [3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY). As explained in the video, wrapping input signals around a circle allows for varying patterns and when the centre of mass shifts from the origin (centre of the image), we see a pure frequency.
+This work attempts to capture the beautiful piece of mathematics that governs Fourier Transforms and is inspired by the video by [3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY). As explained in the video, wrapping input signals around a circle allows for varying patterns and when the centre of mass shifts from the origin (centre of the image), we see a pure frequency.
 
 Some of the key features of this work include:
 
