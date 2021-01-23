@@ -13,7 +13,7 @@ Some of the key features of this work include:
 * Visualizing the aligned patterns that emerge when the signal frequency matches the wrapping frequency, thus indicating the pure frequencies of the signal.
 * Visualization of the square wave and sawtooth wave approximated by their Fourier series.
 
-All images were generated using Python, by using packages like Matplotlib, Numpy and SciPy.
+All images were generated using Python, by using packages like Matplotlib, NumPy and SciPy.
 
 
 ## Project Page
